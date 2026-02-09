@@ -20,6 +20,7 @@ No external knowledge or assumptions are introduced.
 ---
 
 ## Folder Structure
+``` text
 data/
 Pathfinder AI - Training Materials.docx
 src/
@@ -30,7 +31,7 @@ generator.py
 pipeline.py
 demo.py
 requirements.txt
-
+```
 
 ---
 

@@ -1,0 +1,7 @@
+python-docx
+rank-bm25
+sentence-transformers
+scikit-learn
+numpy
+python-dotenv
+requests

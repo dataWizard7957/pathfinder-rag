@@ -6,7 +6,6 @@ broker-style mortgage suggestions based on a client’s **age range** and **inco
 All recommendations are strictly grounded in a single internal training document
 (`Pathfinder AI - Training Materials.docx`).
 
-No external knowledge or assumptions are introduced.
 
 ---
 
